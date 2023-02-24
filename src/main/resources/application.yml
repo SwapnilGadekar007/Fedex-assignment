@@ -1,0 +1,4 @@
+client:
+  pricing-url: http://127.0.0.1:4000
+  tracker-url: http://127.0.0.1:4000
+  shipment-url: http://127.0.0.1:4000
